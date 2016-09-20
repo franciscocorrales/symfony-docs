@@ -37,7 +37,7 @@ If the controller is a service, see the next section on how to override it.
 Services & Configuration
 ------------------------
 
-In order to override/extend a service, there are two options. First, you can
+In order to override or extend a service, there are two options. First, you can
 set the parameter holding the service's class name to your own class by setting
 it in ``app/config/config.yml``. This of course is only possible if the class name is
 defined as a parameter in the service config of the bundle containing the
